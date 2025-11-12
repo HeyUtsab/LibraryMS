@@ -1,6 +1,6 @@
 # LibraryMS 🚀
 
-A **Library Management System** built with **Spring Boot + JSP**. Smooth, fast, and perfect for managing books & students in college or small libraries.
+A **Library Management System** built with **Spring Boot + JSP**. Smoother , faster, and perfect for managing books & students in college or small libraries.
 
 ---
 
