@@ -8,7 +8,7 @@ A **Library Management System** built with **Spring Boot + JSP**. Smoother , fas
 - Student Registration & Management  
 - Book Inventory, Issue & Return  
 - Search by Book or Student  
-- Simple Admin Dashboard  
+- Admin Dashboard  
 
 ---
 
