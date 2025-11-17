@@ -15,7 +15,7 @@ A **Library Management System** built with **Spring Boot + JSP**. Smoother , fas
 ## Tech Stack 🛠️
 - **Backend:** Spring Boot, Spring Data JPA  
 - **Frontend:** JSP, HTML, CSS, Bootstrap  
-- **Database:** MySQL  
+- **Database:** MySQL,SQL  
 - **Tools:** Maven, Lombok, DevTools  
 
 ---
